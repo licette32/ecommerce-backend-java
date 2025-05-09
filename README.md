@@ -1,4 +1,4 @@
-# ecommerce-backend-java
+# Ecommerce-backend-java
 
 Repositorio personal para documentar el aprendizaje y desarrollo de un backend para un sistema de ecommerce utilizando Java, Spring Boot y MySQL. Este proyecto incluye ejercicios prácticos, clases organizadas por módulos, entregas parciales y un proyecto final integrador.
 
