@@ -1,6 +1,11 @@
 # Ecommerce-backend-java
 
-**Nota sobre la pre-entrega**: Este repositorio también incluye una pre-entrega que se realizó como parte del proceso de aprendizaje. La pre-entrega consiste en una implementación básica de las funcionalidades del sistema, que sirvió como base para el desarrollo del proyecto final.
+
+---------------------
+
+***Nota sobre la pre-entrega***: Este repositorio también incluye una pre-entrega que se realizó como parte del proceso de aprendizaje. La pre-entrega consiste en una implementación básica de las funcionalidades del sistema, que sirvió como base para el desarrollo del proyecto final.
+
+---------------------
 
 
 Repositorio personal para documentar el aprendizaje y desarrollo de un backend para un sistema de ecommerce utilizando Java, Spring Boot y MySQL. Este proyecto incluye ejercicios prácticos, clases organizadas por módulos, entregas parciales y un proyecto final integrador.
